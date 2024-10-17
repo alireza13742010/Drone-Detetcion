@@ -8,6 +8,6 @@ For access to the saved weights contact with our company: https://avidmech.ir/co
 \\
 The metric results:
 1. Confusion Matrix:
-   ![Uploading confusion_matrix.png…]()
+   ![confusion_matrix](https://github.com/user-attachments/assets/3f60f9cc-3f09-41db-9fba-a617bca1a9cc)
 2. Precision-Recall curve:
    ![PR_curve](https://github.com/user-attachments/assets/d887120f-60d6-4a44-a78b-1550fed4c7f6)
